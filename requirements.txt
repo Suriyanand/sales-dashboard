@@ -1,6 +1,5 @@
-flask
-pandas
-openpyxl
-matplotlib
-seaborn
 streamlit
+pandas
+matplotlib
+flask
+flask-cors
